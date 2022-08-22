@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231427248024",
+    "project_id": "flutter-tindog-app",
+    "storage_bucket": "flutter-tindog-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231427248024:android:3d162df1cc7e22c2afa5ed",
+        "android_client_info": {
+          "package_name": "com.example.mips_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231427248024-9uv7p6vp36t1pqe3n3itfpe6cbt1ehvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7f2odPrbVexFFPV0c_SHb-AeC8d_4Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231427248024-9uv7p6vp36t1pqe3n3itfpe6cbt1ehvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
